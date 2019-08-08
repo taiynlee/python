@@ -1,0 +1,5 @@
+\\R204-T
+\\r204-t\Users\SCE\Desktop\ai
+https://www.anaconda.com/
+http://www.desen.com.tw/ai/1014/part01.html
+https://anaconda.org/conda-forge/opencv
